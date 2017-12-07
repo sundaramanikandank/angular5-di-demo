@@ -1,0 +1,14 @@
+<div>
+  <table>
+    <tr>
+      <th>ID:</th>
+      <th>Name:</th>
+      <th>City:</th>
+    </tr>
+    <tr *ngFor = "let contact of contactList">
+    <td>{{contact?.id}}</td>
+    <td>{{contact?.name}}</td>
+    <td>{{contact?.city}}</td>
+    </tr>
+  </table>
+</div>

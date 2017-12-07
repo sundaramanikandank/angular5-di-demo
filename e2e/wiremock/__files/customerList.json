@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "aaa",
+    "city": "abc"
+  },
+  {
+    "id": 2,
+    "name": "bbb",
+    "city": "def"
+  },
+  {
+    "id": 3,
+    "name": "ccc",
+    "city": "ghi"
+  },
+  {
+    "id": 4,
+    "name": "ddd",
+    "city": "xyz"
+  }
+]
